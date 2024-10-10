@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.center {
+  display: flex;
+  justify-content: center;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -36,3 +41,20 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  position: relative;
+  display: inline-block;
+}
+
+#image {
+  width: 100%;
+  display: block;
+}
+
+.bounding-box {
+  position: absolute;
+  border: auto solid blue;
+  box-sizing: border-box;
+}
+
