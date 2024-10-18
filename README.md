@@ -12,6 +12,3 @@ This application utilizes the (https://www.clarifai.com/) to detect faces in ima
 - **JavaScript**: Adding functionality to the project.
 - **React**: Component creation for better management and functionality.
 - **HTML/CSS**: For the frontend user interface.
-
-![Face Detection Screenshot](assets/screenshot.png)
-
