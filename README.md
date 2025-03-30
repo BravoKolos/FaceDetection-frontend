@@ -3,6 +3,8 @@
 ## Overview
 This application utilizes the (https://www.clarifai.com/) to detect faces in images. Built with Node.js, the app allows users to upload images, and it processes these images to identify and display detected faces.
 
+![Alt text](smartbrain.png)
+
 ## Features
 - Upload images for face detection
 - Display detected faces with bounding boxes
